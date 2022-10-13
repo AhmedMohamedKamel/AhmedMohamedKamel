@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmohamedkamel" alt="ahmedmohamedkamel" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Django**
 
 - 📝 I regularly write articles on [https://www.hafedktech.com](https://www.hafedktech.com)
 
