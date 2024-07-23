@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Kamel</h1>
-<h3 align="center">Software Engineer Intern @ bld.ai, Currently final year CS Student at National Egyptian E-learning University - Ain Shams University Branch</h3>
+<h3 align="center">Software Engineer @ OrderKing Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmohamedkamel" alt="ahmedmohamedkamel" /></a> </p>
 
